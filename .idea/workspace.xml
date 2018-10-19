@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81d9f983-d77b-4363-b923-fcc126fd43b7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/UsingDatabasesWithPython-Course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UsingDatabasesWithPython-Course.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3/trackdb.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/Week3/trackdb.sqlite" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,33 +25,33 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="13" />
+          <entry key="py" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="13" />
+          <entry key="Python" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1108" />
+          <entry key="py" value="1157" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1108" />
+          <entry key="Python" value="1157" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week3/tracks.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="696">
-              <caret line="83" column="54" lean-forward="true" selection-start-line="83" selection-start-column="54" selection-end-line="83" selection-end-column="54" />
+            <state relative-caret-position="24">
+              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
               </folding>
@@ -61,7 +59,26 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Week4/roster.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="63" column="17" lean-forward="true" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -73,10 +90,11 @@
         <option value="$PROJECT_DIR$/../DB-Simulate/code.py" />
         <option value="$PROJECT_DIR$/../DB-Simulate/CRUD-Simulate.py" />
         <option value="$PROJECT_DIR$/Week3/tracks.py" />
+        <option value="$PROJECT_DIR$/Week4/roster.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1050" />
@@ -105,6 +123,11 @@
               <item name="UsingDatabasesWithPython-Course" type="b2602c69:ProjectViewProjectNode" />
               <item name="UsingDatabasesWithPython-Course" type="462c0819:PsiDirectoryNode" />
               <item name="Week3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UsingDatabasesWithPython-Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UsingDatabasesWithPython-Course" type="462c0819:PsiDirectoryNode" />
+              <item name="Week4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="UsingDatabasesWithPython-Course" type="b2602c69:ProjectViewProjectNode" />
@@ -141,7 +164,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tracks">
+  <component name="RunManager" selected="Python.roster">
     <configuration name="CRUD-Simulate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DB-Simulate" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -205,6 +228,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="roster" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="UsingDatabasesWithPython-Course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week4/roster.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="tracks" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="UsingDatabasesWithPython-Course" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,9 +275,11 @@
       <item itemvalue="Python.code" />
       <item itemvalue="Python.CRUD-Simulate" />
       <item itemvalue="Python.tracks" />
+      <item itemvalue="Python.roster" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.roster" />
         <item itemvalue="Python.tracks" />
         <item itemvalue="Python.CRUD-Simulate" />
         <item itemvalue="Python.code" />
@@ -256,7 +302,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20835537" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -309,10 +354,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week3/tracks.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="83" column="54" lean-forward="true" selection-start-line="83" selection-start-column="54" selection-end-line="83" selection-end-column="54" />
+        <state relative-caret-position="24">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
           <folding>
             <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week4/roster.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="63" column="17" lean-forward="true" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
