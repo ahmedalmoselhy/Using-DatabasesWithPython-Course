@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../AI-with-Python/.idea/AI-with-Python.iml" filepath="$PROJECT_DIR$/../AI-with-Python/.idea/AI-with-Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Amr/.idea/Amr.iml" filepath="$PROJECT_DIR$/../Amr/.idea/Amr.iml" />
       <module fileurl="file://$PROJECT_DIR$/../DB-Simulate/.idea/DB-Simulate.iml" filepath="$PROJECT_DIR$/../DB-Simulate/.idea/DB-Simulate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Maze/.idea/Maze.iml" filepath="$PROJECT_DIR$/../Maze/.idea/Maze.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Maze_Solver/.idea/Maze_Solver.iml" filepath="$PROJECT_DIR$/../Maze_Solver/.idea/Maze_Solver.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/UsingDatabasesWithPython-Course.iml" filepath="$PROJECT_DIR$/.idea/UsingDatabasesWithPython-Course.iml" />
     </modules>
   </component>

@@ -6,6 +6,9 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="AI-with-Python" />
     <orderEntry type="module" module-name="DB-Simulate" />
+    <orderEntry type="module" module-name="Amr" />
+    <orderEntry type="module" module-name="Maze_Solver" />
+    <orderEntry type="module" module-name="Maze" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
